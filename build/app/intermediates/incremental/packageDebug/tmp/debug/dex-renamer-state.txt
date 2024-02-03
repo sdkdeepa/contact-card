@@ -1,0 +1,4 @@
+#Fri Feb 02 19:04:34 PST 2024
+base.0=/Users/sdkdeepam2/Documents/flutter_my_card_before_building/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
